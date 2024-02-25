@@ -1,6 +1,8 @@
 # Basic Kotlin Course
 
 ## Steps
-- [x]  1. Mutable and Immutable Variable #01
-  - [x]  1.1 Hello World
-- [ ] 
+- [x] #01 Mutable and Immutable Variable
+  - [x] 1.1 Hello World
+  - [x] 1.2 Mutable Variable
+  - [x] 1.3 Immutable variable
+- [ ]
