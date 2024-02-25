@@ -20,4 +20,10 @@
   - [x] 1.14 Nullable values and null checks
   - [x] 1.15 Exceptions
   - [x] 1.16 Type checks and automatic casts
-- [ ]
+- [x] #02 Idioms (https://kotlinlang.org/docs/idioms.html) 
+  - [x] 2.1 Create DTOs (POJOs/POCOs)
+  - [x] 2.2 Default values for function parameters
+  - [x] 2.3 Filter a list
+  - [ ] 2.4 Check the presence of an element in a collection
+  -[ ] ...
+- [ ] ...
