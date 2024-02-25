@@ -1,4 +1,4 @@
-# Basic Kotlin Course
+# Kotlin fundamentals
 
 ## Steps
 - [x] [#01 Basic Syntax](https://kotlinlang.org/docs/basic-syntax.html)
