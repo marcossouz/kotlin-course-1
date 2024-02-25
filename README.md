@@ -20,10 +20,20 @@
   - [x] 1.14 Nullable values and null checks
   - [x] 1.15 Exceptions
   - [x] 1.16 Type checks and automatic casts
-- [x] #02 Idioms (https://kotlinlang.org/docs/idioms.html) 
+- [x] [#02 Idioms](https://kotlinlang.org/docs/idioms.html) 
   - [x] 2.1 Create DTOs (POJOs/POCOs)
   - [x] 2.2 Default values for function parameters
   - [x] 2.3 Filter a list
-  - [ ] 2.4 Check the presence of an element in a collection
+  - [x] 2.4 Check the presence of an element in a collection
+  - [x] 2.5 String interpolation
+  - [x] 2.6 Instance checks
+  - [x] 2.7 Read-only list
+  - [x] 2.8 Read-only map
+  - [x] 2.9 Access a map entry
+  - [x] 2.10 mutableMapOf
+  - [x] 2.11 Access a map entry
+  - [x] 2.12 Traverse a map or a list of pairs
+  - [x] 2.13 Lazy property
+  - [ ] 2.14 Extension functions
   -[ ] ...
 - [ ] ...
