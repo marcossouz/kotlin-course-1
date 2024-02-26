@@ -52,4 +52,4 @@
   - [x] 2.29 Configure properties of an object (apply)
   - [x] 2.30 Swap two variables
   - [x] 2.31 Mark code as incomplete (TODO)
--[x] The remaining documentation can be consulted at http:// https://kotlinlang.org/docs
+- [x] The remaining documentation can be consulted at http:// https://kotlinlang.org/docs
