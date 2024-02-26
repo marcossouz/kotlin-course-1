@@ -34,6 +34,22 @@
   - [x] 2.11 Access a map entry
   - [x] 2.12 Traverse a map or a list of pairs
   - [x] 2.13 Lazy property
-  - [ ] 2.14 Extension functions
-  -[ ] ...
-- [ ] ...
+  - [x] 2.14 Extension functions
+  - [x] 2.15 Create a singleton
+  - [x] 2.16 Instantiate an abstract class
+  - [x] 2.17 If-not-null shorthand
+  - [x] 2.18 If-not-null-else shorthand
+  - [x] 2.19 Execute a statement if null
+  - [x] 2.20 Get first item of a possibly empty collection
+  - [x] 2.21 Execute if not null
+  - [x] 2.22 Map nullable value if not null
+  - [x] 2.23 Return on when statement
+  - [x] 2.24 try-catch expression
+  - [x] 2.25 if expression
+  - [x] 2.26 Builder-style usage of methods that return Unit
+  - [x] 2.27 Single-expression functions
+  - [x] 2.28 Call multiple methods on an object instance (with)
+  - [x] 2.29 Configure properties of an object (apply)
+  - [x] 2.30 Swap two variables
+  - [x] 2.31 Mark code as incomplete (TODO)
+-[x] The remaining documentation can be consulted at http:// https://kotlinlang.org/docs
